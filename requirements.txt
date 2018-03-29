@@ -1,0 +1,14 @@
+aiomysql==0.0.12
+aioredis==1.1.0
+async-timeout==2.0.1
+certifi==2018.1.18
+chardet==3.0.4
+hiredis==0.2.0
+idna==2.6
+peewee==2.10.2
+peewee-async==0.5.11
+PyMySQL==0.8.0
+requests==2.18.4
+six==1.11.0
+tornado==5.0.1
+urllib3==1.22
